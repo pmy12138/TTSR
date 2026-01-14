@@ -54,6 +54,8 @@ sh test.sh
 
 ## Dataset prepare
 1. Download [CUFED train set](https://drive.google.com/drive/folders/1hGHy36XcmSZ1LtARWmGL5OK1IUdWJi3I) and [CUFED test set](https://drive.google.com/file/d/1Fa1mopExA9YGG1RxrCZZn7QFTYXLx6ph/view)
+数据集百度网盘链接【通过网盘分享的文件：CUFED数据集
+链接: https://pan.baidu.com/s/1UgvrzMm6YKxf5VYj-xPVbw?pwd=5f3x 提取码: 5f3x】
 2. Make dataset structure be:
 - CUFED
     - train
